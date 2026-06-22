@@ -1,4 +1,4 @@
-## This code id comming from NETWORK FILE when we click on Response section.
+## This code is comming from NETWORK FILE when we click on Response section.
 
 <!DOCTYPE html>
 <html lang="en">
