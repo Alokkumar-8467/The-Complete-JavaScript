@@ -57,3 +57,4 @@
 console.log("Hello World")
 
 Basically when we open our website so a request goes to html page.
+Then Html have a shared Script file path.
