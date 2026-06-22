@@ -55,3 +55,5 @@
 ## Same for Script code 
 
 console.log("Hello World")
+
+Basically when we open our website so a request goes to html page.
