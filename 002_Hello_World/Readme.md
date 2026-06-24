@@ -59,3 +59,4 @@ console.log("Hello World")
 Basically when we open our website so a request goes to html page.
 Then Html have a shared Script file path.
 Now HTML request for that script file. Then Finaliy our script code run and give respons to html page. 
+
