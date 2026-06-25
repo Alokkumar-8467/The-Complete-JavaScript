@@ -62,6 +62,7 @@ Now HTML request for that script file. Then Finaliy our script code run and give
 
 ### We type this in inspect console section
 #### This is Read Evaluate Print Loop (REPL) in Inspect Section.
+```
 console.log
 
 ƒ log() { [native code] }
@@ -71,3 +72,4 @@ console.log("Hello")
 VM245:1 Hello
 
 undefined
+```
