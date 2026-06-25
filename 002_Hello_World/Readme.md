@@ -60,3 +60,11 @@ Basically when we open our website so a request goes to html page.
 Then Html have a shared Script file path.
 Now HTML request for that script file. Then Finaliy our script code run and give respons to html page. 
 
+### We type this in inspect console section
+#### This is Read Evaluate Print Loop (REPL) in Inspect Section.
+console.log
+ƒ log() { [native code] }
+console.log("Hello")
+VM245:1 Hello
+undefined
+
