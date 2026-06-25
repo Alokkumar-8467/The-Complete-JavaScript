@@ -1,4 +1,4 @@
-## This code is comming from NETWORK FILE when we click on Response section.
+## This code id comming from NETWORK FILE when we click on Response section.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -63,8 +63,11 @@ Now HTML request for that script file. Then Finaliy our script code run and give
 ### We type this in inspect console section
 #### This is Read Evaluate Print Loop (REPL) in Inspect Section.
 console.log
-ƒ log() { [native code] }
-console.log("Hello")
-VM245:1 Hello
-undefined
 
+ƒ log() { [native code] }
+
+console.log("Hello")
+
+VM245:1 Hello
+
+undefined
