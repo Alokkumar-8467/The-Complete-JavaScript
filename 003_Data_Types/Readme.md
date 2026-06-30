@@ -1,6 +1,6 @@
 # Data Types in JavaScript
 
-Data Types in JavaScript There are two types of data types in JavaScript. Primitive
+There are two types of data types in JavaScript. Primitive
 
 Non Primitive
 
