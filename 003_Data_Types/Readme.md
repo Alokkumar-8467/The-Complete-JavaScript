@@ -70,13 +70,17 @@ typeof '100'
 -100
 ```
 
-when i use * in front of string  number '100', then it syntax error 
+#### when i use * in front of string  number '100', then it syntax error 
+```
 *'100'
 VM794:1 Uncaught SyntaxError: Unexpected token '*'
+```
 
-when i use / in front of string  number '100', then it syntax error 
+#### when i use / in front of string  number '100', then it syntax error 
+```
 /'100'
 VM816:1 Uncaught SyntaxError: Invalid regular expression: missing /
+```
 
 When we use + in front of string then it give NaN (means Not a Number) 
 + 'alok'
