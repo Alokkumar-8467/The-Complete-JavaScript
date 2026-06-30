@@ -7,7 +7,7 @@ There are two types of data types in JavaScript.
 
 In this video we'll learn about primitive data types. 
 We can classify primitive data types in 7 categories. 
-
+```
 1.string 
 2.number 
 3.boolean 
@@ -15,7 +15,7 @@ We can classify primitive data types in 7 categories.
 5.null 
 6.bigint 
 7.symbol
-
+```
 ```
 <!DOCTYPE html>
 <html lang="en">
