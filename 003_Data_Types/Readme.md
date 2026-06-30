@@ -48,11 +48,15 @@ We can classify primitive data types in 7 categories.
 </html>
 ```
 
+### See how string change there behaviour
 ```
 typeof 100
 'number'
+
 typeof '100'
 'string'
+
+when i use + in front of string  number '100', then it behave as number 
 + '100'
 100
 -'100'
