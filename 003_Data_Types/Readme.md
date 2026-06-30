@@ -111,5 +111,4 @@ NaN
 ```
 typeof parseInt('ere100ererer')
 'number'
-
 ```
