@@ -52,17 +52,23 @@ We can classify primitive data types in 7 categories.
 ```
 typeof 100
 'number'
-
+```
+```
 typeof '100'
 'string'
+```
 
-when i use + in front of string  number '100', then it behave as number 
+##### when i use + in front of string  number '100', then it behave as number 
+```
 + '100'
 100
+```
 
-when i use - in front of string  number '100', then it behave as number 
+#### when i use - in front of string  number '100', then it behave as number 
+```
 -'100'
 -100
+```
 
 when i use * in front of string  number '100', then it syntax error 
 *'100'
