@@ -48,7 +48,7 @@ We can classify primitive data types in 7 categories.
 </html>
 ```
 
-### See how string change there behaviour
+### See how string change there behaviour OR Change from string to number
 ```
 typeof 100
 'number'
