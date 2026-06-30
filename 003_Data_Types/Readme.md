@@ -80,4 +80,8 @@ But when we check the typeof then it show number.
 typeof + 'alok'
 'number'
 
+Now parseInt()
+Basically parseInt() remove the extra string and only show the number 
+parseInt('100sdsd')
+100
 ```
