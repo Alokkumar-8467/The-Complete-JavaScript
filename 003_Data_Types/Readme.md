@@ -71,4 +71,8 @@ VM794:1 Uncaught SyntaxError: Unexpected token '*'
 when i use / in front of string  number '100', then it syntax error 
 /'100'
 VM816:1 Uncaught SyntaxError: Invalid regular expression: missing /
+
++ 'alok'
+NaN
+
 ```
