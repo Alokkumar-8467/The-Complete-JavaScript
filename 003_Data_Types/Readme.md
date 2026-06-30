@@ -72,7 +72,12 @@ when i use / in front of string  number '100', then it syntax error
 /'100'
 VM816:1 Uncaught SyntaxError: Invalid regular expression: missing /
 
+When we use + in front of string then it give NaN (means Not a Number) 
 + 'alok'
 NaN
+
+But when we check the typeof then it show number.
+typeof + 'alok'
+'number'
 
 ```
