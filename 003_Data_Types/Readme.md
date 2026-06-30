@@ -84,4 +84,8 @@ Now parseInt()
 Basically parseInt() remove the extra string and only show the number 
 parseInt('100sdsd')
 100
+
+but if i use parseInt() like this then it also NaN means not a number but in typeof it show number
+parseInt('ere100ererer')
+NaN
 ```
