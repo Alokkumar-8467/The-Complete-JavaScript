@@ -1,3 +1,4 @@
+# Data Types in JavaScript
 ```
 <!DOCTYPE html>
 <html lang="en">
