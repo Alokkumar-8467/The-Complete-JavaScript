@@ -47,3 +47,18 @@ We can classify primitive data types in 7 categories.
   </body>
 </html>
 ```
+
+```
+typeof 100
+'number'
+typeof '100'
+'string'
++ '100'
+100
+-'100'
+-100
+*'100'
+VM794:1 Uncaught SyntaxError: Unexpected token '*'
+/'100'
+VM816:1 Uncaught SyntaxError: Invalid regular expression: missing /
+```
