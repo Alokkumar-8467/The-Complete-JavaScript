@@ -82,18 +82,24 @@ VM794:1 Uncaught SyntaxError: Unexpected token '*'
 VM816:1 Uncaught SyntaxError: Invalid regular expression: missing /
 ```
 
-When we use + in front of string then it give NaN (means Not a Number) 
+#### When we use + in front of string then it give NaN (means Not a Number) 
+```
 + 'alok'
 NaN
+```
 
-But when we check the typeof then it show number.
+#### But when we check the typeof then it show number.
+```
 typeof + 'alok'
 'number'
+```
 
-Now parseInt()
-Basically parseInt() remove the extra string and only show the number 
+#### Now parseInt()
+### Basically parseInt() remove the extra string and only show the number 
+```
 parseInt('100sdsd')
 100
+```
 
 but if i use parseInt() like this then it also NaN means not a number.
 parseInt('ere100ererer')
