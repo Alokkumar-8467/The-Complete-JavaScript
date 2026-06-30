@@ -59,6 +59,8 @@ typeof '100'
 when i use + in front of string  number '100', then it behave as number 
 + '100'
 100
+
+when i use - in front of string  number '100', then it behave as number 
 -'100'
 -100
 *'100'
