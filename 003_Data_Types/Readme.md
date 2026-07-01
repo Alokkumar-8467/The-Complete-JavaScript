@@ -107,6 +107,7 @@ parseInt('ere100ererer')
 NaN
 ```
 
+
 #### but in typeof it show number
 ```
 typeof parseInt('ere100ererer')
