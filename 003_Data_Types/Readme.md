@@ -115,3 +115,5 @@ typeof parseInt('ere100ererer')
 ```
 
 ## Boolean Data Type
+
+#### Boolean have two values either "TRUE" or "FALSE"
