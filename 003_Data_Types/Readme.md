@@ -116,7 +116,7 @@ typeof parseInt('ere100ererer')
 
 ## Boolean Data Type
 
-#### Boolean have two values either "TRUE" or "FALSE"
+#### Boolean have two values either "TRUE" or "FALSE" or 0 or 1.
 
 ```
 typeof true
