@@ -126,3 +126,5 @@ typeof true
 1
 +false
 0
+
+##### We can use Boolean for basically condition check
