@@ -113,3 +113,5 @@ NaN
 typeof parseInt('ere100ererer')
 'number'
 ```
+
+## Boolean Data Type
