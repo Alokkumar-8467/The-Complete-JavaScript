@@ -122,4 +122,7 @@ typeof parseInt('ere100ererer')
 typeof true
 'boolean'
 ```
-
++true
+1
++false
+0
