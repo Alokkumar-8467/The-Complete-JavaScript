@@ -147,3 +147,5 @@ NaN
 ```
 
 ## Null
+Null is basically a false or 0.
+
