@@ -139,4 +139,10 @@ typeof undefined
 'undefined'
 ```
 
+Undefined is undefined it not necessary that it containa any number
+```
++undefined
+NaN
+```
+
 ## Null
