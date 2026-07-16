@@ -152,6 +152,8 @@ Null is basically a false or 0.
 ```
 null
 null
+
+Type of Null is Object but is an ERROR or BUG
 typeof null
 'object'
 +null
