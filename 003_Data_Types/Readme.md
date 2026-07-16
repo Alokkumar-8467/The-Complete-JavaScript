@@ -128,3 +128,5 @@ typeof true
 0
 
 ##### We can use Boolean for basically condition check
+
+## Undefined
