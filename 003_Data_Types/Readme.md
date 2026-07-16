@@ -130,6 +130,7 @@ typeof true
 ##### We can use Boolean for basically condition check
 
 ## Undefined
+When we create a varaible and not assign any variable value to it. Then i set undefined to it.
 
 ```
 undefined
@@ -137,3 +138,5 @@ undefined
 typeof undefined
 'undefined'
 ```
+
+## Null
