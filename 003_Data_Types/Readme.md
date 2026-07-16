@@ -149,3 +149,11 @@ NaN
 ## Null
 Null is basically a false or 0.
 
+```
+null
+null
+typeof null
+'object'
++null
+0
+```
