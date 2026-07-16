@@ -139,7 +139,8 @@ typeof undefined
 'undefined'
 ```
 
-Undefined is undefined it not necessary that it containa any number
+Undefined is undefined it not necessary that it containa any number.
+We can't convert undefined to any other value.
 ```
 +undefined
 NaN
