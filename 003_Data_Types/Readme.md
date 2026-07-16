@@ -156,4 +156,8 @@ typeof null
 'object'
 +null
 0
+
+parseInt(undefined)
+NaN
+
 ```
