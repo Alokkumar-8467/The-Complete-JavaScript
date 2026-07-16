@@ -130,3 +130,10 @@ typeof true
 ##### We can use Boolean for basically condition check
 
 ## Undefined
+
+```
+undefined
+undefined
+typeof undefined
+'undefined'
+```
