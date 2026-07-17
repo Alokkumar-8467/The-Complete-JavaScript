@@ -3,4 +3,4 @@ We can create a variable by three methods
 Let Var Const
 
 ## Let
-let user
+``` let username = Kola; ```
